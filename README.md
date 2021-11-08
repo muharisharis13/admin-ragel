@@ -1,3 +1,4 @@
 # DASHBOARD ADMIN RAGEL
 
-cara menjalankan tinggal npm install dahulu kemudian npm start / yarn start. di sini sudah memakai API Production, jadi kemungkinan API tidak terlihat karena di letak di .env
+![image](https://user-images.githubusercontent.com/75407662/140682665-e4b4b1a8-2a91-48e8-bf8c-ca9f8132b3a2.png)
+
